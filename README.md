@@ -113,3 +113,4 @@ clojure main.clj test-files/eicar.com
 - O projeto usa uma regra `index.yar` para incluir todas as regras da pasta `yara_rules`.
 - O campo `elapsed_ms` mostra quanto tempo a análise levou em milissegundos.
 - O arquivo de teste `test-files/eicar.com` foi usado apenas como exemplo de validação.
+- As regras Yara utilizadas no scan foram retiradas do projeto [signature-base](https://github.com/neo23x0/signature-base) criado e gerido por [Florian Roth](https://github.com/Neo23x0)
